@@ -1,0 +1,14 @@
+﻿Given the array of one and zero, convert the corresponding binary value to an integer.
+
+Eg: [0, 0, 0, 1] is treated as 0001, which is a binary representation of 1.
+
+However, boards can have different lengths, not just 4
+
+
+Biorąc pod uwagę tablicę jeden i zero, przekonwertuj odpowiednią wartość binarną na liczbę całkowitą.
+
+Np .: [0, 0, 0, 1] jest traktowane jako 0001, co jest binarną reprezentacją 1.
+
+Jednak płyty mogą mieć różne długości, a nie tylko 4
+
+zawartość
